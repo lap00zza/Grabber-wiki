@@ -1,0 +1,15 @@
+script:
+- |
+  git config user.name "Jewel Mahanta"
+  git config user.email "jewelmahanta@gmail.com"
+  git remote remove origin
+  git remote add origin https://$GITHUB_API_KEY@github.com/lap00zza/Grabber-wiki.git > /dev/null 2>&1
+  git remote add upstream https://$GITHUB_API_KEY@github.com/lap00zza/Grabber.wiki.git > /dev/null 2>&1
+  git fetch origin
+  git fetch upstream
+  git merge upstream/master --no-edit
+  git push origin HEAD:master > /dev/null 2>&1
+  git push upstream HEAD:master > /dev/null 2>&1
+env:
+  matrix:
+    secure: aokxrS5En1rrI9U0oNApI0WdJK6nn3Mawv41Xjqq4twTsRzHu4gdPk8qwLk1tuhwBcocKTqmlYwiEbq8pxO6+RTCaH+FafeGnUATcTgBylAnqIIgdTsGYZ3Y22H1TIxYqJEyvdl20BDlreTGYuhfuzCyS5hojwjUOnB2yrtR9DcU5jd0qoW/h2YX94pacUdJh8qXJO8LrxgNRLdZP3/XVNRZlesCgPlU4U2PVjkXghEeYJhFb2W0aQLH/KJqfcDGRdZc8DbPfxeaKLfDc5kTnUTDToghi4e1C7MmEwMXlkRwMLy92cxK5+FetEXt8HaBdarW/JxV4wVr+GnPc/E4cGncAqaZaSpMW5bGDE00jKCCKjwmf6Eqr9Os9+4cATiLkCTdcd6Y4WGLF9QOr7Og+InkrytNOSu0Pi55HruE/2wWbdBXTdBz2iTp0xk6DrqjwRUhzTzNCg+QkmYHS3PjWe+tuwK6rBICgIxj8X3P7VL7ugQOc5zmuUskCGnUJGkviIpSfoPQbGP2VyKqoBJBhavFL3hOFGZAnCN/U2E5vE0wbFcWcnSw9eg1Sxpe01TBxBosknrLVB6KQizvGL92sNwnOibtfTQDVZx5+UWdl/ef5AIcqroX1OLWIdauMooU6WMdpon5DtOS2Xl86mjoJHehRR853A8MsRP1yg9hoBA=
