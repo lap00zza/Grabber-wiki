@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/lap00zza/Grabber-wiki.svg?branch=master)](https://travis-ci.org/lap00zza/Grabber-wiki)
+
+<hr>
+
 Welcome to the Grabber wiki!
 
 Here you will find guides and walkthroughs to help you with Grabber.
