@@ -1,1 +1,3 @@
-Want to help out with the wiki? It is publicly editable. Just click on `Edit` at the top right corner and start editing.
+### Want to contribute to this Wiki?
+
+[Fork it and send a pull request.](https://github.com/lap00zza/Grabber-wiki.git)
