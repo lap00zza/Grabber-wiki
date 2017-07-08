@@ -21,15 +21,15 @@ This guide will explain you how to download episodes using Grabber. First off, r
 ## Free Download Manager (FDM)
 * URL: www.freedownloadmanager.org/
 * Is it free? **Yes**
-#### Steps
 1. Install FDM and open it
-2. Go to `Menu > Settings` in the tool bar
-3. Integrate FDM with your browser
 
 ![](https://user-images.githubusercontent.com/10241434/27984377-5e9c90c0-6407-11e7-8644-0a13a50efbf0.png)
-4. FDM is now set up 👍 . Now go to a 9anime watch page. For example: [JoJo's Bizarre Adventure: Stardust Crusaders](https://9anime.to/watch/jojo-no-kimyou-na-bouken-stardust-crusaders.2y0) and click on `Grab All` on one of the servers. (*We will use Server F4 for this guide.*).
-5. Once all the links are grabbed and copied to your clipboard, go to FDM, then `Menu > Paste urls from clipboard`.
+
+### Required
+2. Now go to a 9anime watch page. For example: [JoJo's Bizarre Adventure: Stardust Crusaders](https://9anime.to/watch/jojo-no-kimyou-na-bouken-stardust-crusaders.2y0) and click on `Grab All` on one of the servers. (*We will use Server F4 for this guide.*).
+3. Once all the links are grabbed and copied to your clipboard, go to FDM, then `Menu > Paste urls from clipboard`.
 
 ![](https://user-images.githubusercontent.com/10241434/27984416-415f64be-6408-11e7-8931-4ecceba0d640.png)
-6. Select where to save them (*or leave it as it is*), and click on **OK**.
-7. Sit back and relax while your episodes are being downloaded.
+
+4. Select where to save them (*or leave it as it is*), and click on **OK**.
+5. Sit back and relax while your episodes are being downloaded.
