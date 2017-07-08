@@ -25,7 +25,6 @@ This guide will explain you how to download episodes using Grabber. First off, r
 
 ![](https://user-images.githubusercontent.com/10241434/27984377-5e9c90c0-6407-11e7-8644-0a13a50efbf0.png)
 
-### Required
 2. Now go to a 9anime watch page. For example: [JoJo's Bizarre Adventure: Stardust Crusaders](https://9anime.to/watch/jojo-no-kimyou-na-bouken-stardust-crusaders.2y0) and click on `Grab All` on one of the servers. (*We will use Server F4 for this guide.*).
 3. Once all the links are grabbed and copied to your clipboard, go to FDM, then `Menu > Paste urls from clipboard`.
 
