@@ -1,6 +1,9 @@
 This guide will explain you how to download episodes using Grabber. First off, remember that **Grabber** is **not a downloader**. It just fetches the links for you. You will need a downloader/download manager installed to actually download these episodes. Below are a few download managers which works with **Grabber** and the steps on how to set it up:
 
 ℹ️ Make sure Grabber is installed before you try the steps below.
+### Contents
+* [Internet Download Manager (IDM)](#internet-download-manager-idm)
+* [Free Download Manager (FDM)](#free-download-manager-fdm)
 
 ## Internet Download Manager (IDM)
 * URL: https://www.internetdownloadmanager.com/download.html
@@ -27,5 +30,5 @@ This guide will explain you how to download episodes using Grabber. First off, r
 
 ![](https://user-images.githubusercontent.com/10241434/27984416-415f64be-6408-11e7-8931-4ecceba0d640.png)
 
-4. Select where to save them (*or leave it as it is*), and click on **OK**.
+4. Select where to save them (*or leave it as it is*), and click on **Download**.
 5. Sit back and relax while your episodes are being downloaded.
